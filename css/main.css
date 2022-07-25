@@ -293,6 +293,9 @@ body{
   letter-spacing: -0.285714px;
   color: #2D314D;
 }
+.articles__item h3:hover{
+  color: #30C88F;
+}
 .articles__item p{
   padding: 0 24px 24px 24px;
   font-weight: 100;
